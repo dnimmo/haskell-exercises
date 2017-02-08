@@ -26,4 +26,3 @@ ageOn planet seconds =
     Saturn -> secondsInYears seconds 29.447498
     Uranus -> secondsInYears seconds 84.016846
     Neptune -> secondsInYears seconds 164.79132
-    _ -> 0
